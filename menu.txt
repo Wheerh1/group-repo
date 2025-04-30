@@ -1,4 +1,9 @@
 brekky
+-Eggs on Toast
+-Pancakes
+-Waffles
+-Vegimite on Toast
+-English Breakfast
 
 lunch:
 -Cheese Toasty
@@ -7,4 +12,9 @@ lunch:
 -looking forward to lunch
 
 dinner
-
+- Beef Wellington
+- Kung Pao Chicken
+- Dumplings
+- Beef Burgers
+- Chicken Burgers
+- Meatloaf
