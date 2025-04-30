@@ -3,4 +3,9 @@ brekky
 lunch
 
 dinner
-
+- Beef Wellington
+- Kung Pao Chicken
+- Dumplings
+- Beef Burgers
+- Chicken Burgers
+- Meatloaf
